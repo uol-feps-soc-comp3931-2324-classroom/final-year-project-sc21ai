@@ -1,0 +1,5 @@
+1) Dataset: Diabetic Retinpathy Detection dataset
+https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
+
+2) Dataset: APTOS 2019 Blindness Detection
+https://www.kaggle.com/c/aptos2019-blindness-detection/data
